@@ -145,3 +145,10 @@ button{
     font-size: 24px;
     font-weight: bold;
 }
+.footer{
+    background: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
